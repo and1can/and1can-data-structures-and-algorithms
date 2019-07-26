@@ -1,5 +1,5 @@
 # LeetCode 269. Alien Dictionary 
-# Submission accepted 
+# Submission accepted. 
 class Node(object): 
         def __init__(self, value): 
             self.val = value
