@@ -1,4 +1,4 @@
-# Project Title
+# Coding Adventures
 
 This repository contains resources for my YouTube channel: https://www.youtube.com/channel/UC1l1doGWZDqxF29aJ4_gSHg and personal website: https://and1can.com. 
 
